@@ -3,6 +3,8 @@ couch-bash-func
 
 Some Bash functions to easily talk to CouchDB from the command line.
 
+UPDATE: You should really just be using the couchapp tool: http://couchapp.org/page/couchapp-usage
+
 For example, you can easily store your database framework (design docs) as an
 executable or sourceable Bash script file:
 
